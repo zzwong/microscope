@@ -1,4 +1,4 @@
 Microscope
 ----------
 
-Going through [Discover Meteor](git remote add origin https://github.com/zzwong/microscope.git)
+Going through [Discover Meteor](https://www.discovermeteor.com/)
